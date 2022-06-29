@@ -4,16 +4,13 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
-  ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
+  ['593960841123', 'GataBot-MD 💖🐈', true],
   ['14509774891']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['593960841123'], 
 
 global.APIs = { // API Prefix.
   
@@ -97,10 +94,10 @@ global.gatabot = md
 global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/DqTOWGMVSQQ9l8cfh592pp'
 global.nnngrupo = nnn
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
